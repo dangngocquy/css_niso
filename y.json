@@ -1,0 +1,442 @@
+{
+  "success": true,
+  "questions": [
+      {
+          "id": "de14366f-9d2f-4293-8b91-2cc3b7a5fc1c_unique",
+          "type": "text",
+          "question": {
+              "vi": "Số Check",
+              "en": "",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": true,
+          "options": [
+              ""
+          ],
+          "BrandName": "Niso",
+          "name": "question_b5bezi83o",
+          "step": 1,
+          "createdAt": "2024-12-07T15:57:20.457Z",
+          "placeholder": {
+              "vi": "CheckNumber",
+              "en": "",
+              "kh": ""
+          },
+          "dataType": "number",
+          "updatedAt": "2025-06-11T11:34:47.116Z",
+          "brandName": "Niso",
+          "TieuDe": [
+              {
+                  "brand": "Niso",
+                  "TieuDe": {
+                      "vi": "Chia Sẻ Trải Nghiệm - Nâng Tầm Dịch Vụ",
+                      "en": "",
+                      "kh": ""
+                  },
+                  "updatedAt": "2025-06-11T11:34:30.675Z",
+                  "id": "TieuDe_niso_unique"
+              }
+          ],
+          "qt1": [
+              {
+                  "brand": "Niso",
+                  "qt1": {
+                      "vi": "Niso đón nhận mọi chia sẻ về trải nghiệm của Quý khách và luôn không ngừng nâng cao chất lượng dịch vụ.",
+                      "en": "",
+                      "kh": ""
+                  },
+                  "updatedAt": "2025-06-11T11:34:47.116Z",
+                  "id": "de14366f-9d2f-4293-8b91-2cc3b7a5fc1c_unique"
+              }
+          ]
+      },
+      {
+          "id": "7b98652e-7072-4282-902d-14dcc0514118",
+          "type": "text",
+          "question": "Họ và tên",
+          "content": "",
+          "required": true,
+          "options": [],
+          "BrandName": "Niso",
+          "name": "question_dks0ihs0v",
+          "step": 1,
+          "createdAt": "2024-12-07T15:58:01.922Z",
+          "placeholder": "Fullname",
+          "dataType": "text"
+      },
+      {
+          "id": "94410067-c0f4-41a8-85d8-db28db0109e3",
+          "type": "text",
+          "question": "Số điện thoại",
+          "content": "",
+          "required": false,
+          "options": [],
+          "BrandName": "Niso",
+          "name": "question_9hb3s9kku",
+          "step": 1,
+          "createdAt": "2024-12-07T15:58:23.428Z",
+          "placeholder": "Phone Number",
+          "dataType": "number"
+      },
+      {
+          "id": "c740131c-1b34-4953-a583-0643186e788f",
+          "type": "text",
+          "question": "Địa chỉ Email",
+          "content": "",
+          "required": false,
+          "options": [],
+          "BrandName": "Niso",
+          "name": "question_yw2vmazpi",
+          "step": 1,
+          "createdAt": "2024-12-07T15:58:51.798Z",
+          "placeholder": "Email Address",
+          "dataType": "email"
+      },
+      {
+          "id": "bf154dd1-9c7f-4c56-b684-99c7f4ea5dd9",
+          "type": "text",
+          "question": "Độ Tuổi",
+          "content": "",
+          "required": false,
+          "options": [],
+          "BrandName": "Niso",
+          "name": "question_13ojp1j5a",
+          "step": 1,
+          "createdAt": "2024-12-07T16:03:32.038Z",
+          "dataType": "number",
+          "brandName": "Niso",
+          "updatedAt": "2024-12-07T16:11:14.444Z",
+          "placeholder": "Age"
+      },
+      {
+          "id": "bbe5c9fc-b573-4d0d-a582-2973460748ea",
+          "type": "rate",
+          "question": {
+              "vi": "1.Trên thang điểm từ 1 đến 5 (trong đó 1 là \"Hoàn toàn không hài lòng\" và 5 là \"Cực kỳ hài lòng\"), mức độ hài lòng của bạn với thực đơn hiện tại của Niso như thế nào??",
+              "en": "1. On a scale of 1 to 5 (where 1 is \"Not at all satisfied\" and 5 is \"Extremely satisfied\"), how satisfied are you overall with Niso current menu?",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": true,
+          "options": [
+              {
+                  "title": {
+                      "vi": "",
+                      "en": "",
+                      "kh": ""
+                  },
+                  "content": "",
+                  "required": false,
+                  "rate": 5
+              }
+          ],
+          "BrandName": "Niso",
+          "name": "question_1uxvkqej5",
+          "step": 2,
+          "createdAt": "2025-05-09T10:37:04.265Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "brandName": "Niso",
+          "dataType": "text",
+          "updatedAt": "2025-05-26T05:44:18.395Z"
+      },
+      {
+          "id": "5ea8db9a-a64c-4dd0-8ae3-f4b060f86d67",
+          "type": "text",
+          "question": {
+              "vi": "2.Một hoặc hai món ăn hoặc đồ uống yêu thích nhất của bạn trong thực đơn hiện tại của chúng tôi là gì và bạn đặc biệt thích điều gì?",
+              "en": "2. What are one or two of your favorite dishes or beverages on the current menu, and what do you particularly enjoy about them?",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": false,
+          "options": [
+              ""
+          ],
+          "BrandName": "Niso",
+          "name": "question_zqgc1ivgn",
+          "step": 2,
+          "createdAt": "2025-05-09T10:48:09.276Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "dataType": "text",
+          "brandName": "Niso",
+          "updatedAt": "2025-05-09T10:48:24.845Z"
+      },
+      {
+          "id": "3bc5a299-5fdd-4afb-a9c6-5de89b68228f",
+          "type": "choice",
+          "question": {
+              "vi": "3.Trong các danh mục sau đây trên thực đơn, bạn thường gọi món nào nhất?",
+              "en": "3. Which of the following categories on our menu do you order from most frequently?",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": true,
+          "options": [
+              {
+                  "vi": "Khai Vị",
+                  "en": " Appertizer",
+                  "kh": ""
+              },
+              {
+                  "vi": "Món Chính",
+                  "en": "Main course",
+                  "kh": ""
+              },
+              {
+                  "vi": "Món Chay",
+                  "en": "Vegan",
+                  "kh": ""
+              },
+              {
+                  "vi": "Tráng Miệng",
+                  "en": "Dessert",
+                  "kh": ""
+              },
+              {
+                  "vi": "Set Trà",
+                  "en": "Tea Set",
+                  "kh": ""
+              },
+              {
+                  "vi": "Coffee",
+                  "en": "Coffee",
+                  "kh": ""
+              },
+              {
+                  "vi": "Matcha + Choco",
+                  "en": "Matcha + Choco",
+                  "kh": ""
+              },
+              {
+                  "vi": "Smoothie",
+                  "en": "Smoothie",
+                  "kh": ""
+              },
+              {
+                  "vi": "Tea",
+                  "en": "Tea",
+                  "kh": ""
+              },
+              {
+                  "vi": "Juice",
+                  "en": "Juice",
+                  "kh": ""
+              },
+              {
+                  "vi": "Cocktails",
+                  "en": "Cocktails",
+                  "kh": ""
+              },
+              {
+                  "vi": "Beer",
+                  "en": "Beer",
+                  "kh": ""
+              },
+              {
+                  "vi": "Soft Drink",
+                  "en": "Soft Drink",
+                  "kh": ""
+              },
+              {
+                  "vi": "Wine",
+                  "en": "Wine",
+                  "kh": ""
+              }
+          ],
+          "BrandName": "Niso",
+          "name": "question_qo0s8q475",
+          "step": 2,
+          "createdAt": "2025-05-09T10:51:47.560Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          }
+      },
+      {
+          "id": "4854c177-2937-41cc-b96c-57a6d7c466de",
+          "type": "text",
+          "question": {
+              "vi": "4.Có món ăn hoặc đồ uống nào trong thực đơn hiện tại của chúng tôi mà bạn cảm thấy có thể cải thiện không? Nếu có, vui lòng cho chúng tôi biết bạn nghĩ có thể làm gì để cải thiện chúng.",
+              "en": "4. Are there any dishes or beverages on our current menu that you feel could be improved? If so, please tell us what you think could be done to make them better.",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": false,
+          "options": [
+              ""
+          ],
+          "BrandName": "Niso",
+          "name": "question_0e0rjo5ss",
+          "step": 2,
+          "createdAt": "2025-05-09T10:52:18.346Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "dataType": "text"
+      },
+      {
+          "id": "d348be1a-7e0e-4ec8-98e3-42451d8a5d59",
+          "type": "text",
+          "question": {
+              "vi": "5.Khi nghĩ về trải nghiệm ăn uống tổng thể của bạn tại Niso, có loại món ăn hoặc hương vị nào hiện chưa có trong thực đơn mà bạn muốn được bổ sung trong tương lai không?",
+              "en": "5. Thinking about your overall dining experience at Niso, are there any types of dishes or flavors that are not currently on our menu that you would love to see offered in the future?",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": false,
+          "options": [
+              ""
+          ],
+          "BrandName": "Niso",
+          "name": "question_tptcnwil7",
+          "step": 2,
+          "createdAt": "2025-05-09T10:52:52.713Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "dataType": "text"
+      },
+      {
+          "id": "be7cd383-83a8-44b8-a26a-8c276d33ce5d",
+          "type": "text",
+          "question": {
+              "vi": "6. Khi bạn dùng bữa tại Niso, bạn thường trải nghiệm các món ăn hay các thức uống? Vui lòng giải thích lý do của bạn.",
+              "en": "6. When you dine at Niso, how often is your food order the primary focus of your meal compared to your drink order? ",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": false,
+          "options": [
+              ""
+          ],
+          "BrandName": "Niso",
+          "name": "question_ie8w3905x",
+          "step": 2,
+          "createdAt": "2025-05-09T10:53:15.604Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "dataType": "text"
+      },
+      {
+          "id": "9a422199-373b-4c23-83be-71d3d2444fbf",
+          "type": "choice",
+          "question": {
+              "vi": "7.Bạn thường dùng bữa tại Niso bao lâu một lần?",
+              "en": "7. How often do you typically dine at Niso?",
+              "kh": ""
+          },
+          "content": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          },
+          "required": true,
+          "options": [
+              {
+                  "vi": "Lần đầu",
+                  "en": "First Time",
+                  "kh": ""
+              },
+              {
+                  "vi": "Thỉnh Thoảng",
+                  "en": "Occasionally",
+                  "kh": ""
+              },
+              {
+                  "vi": "Hàng Tháng",
+                  "en": "Monthly",
+                  "kh": ""
+              },
+              {
+                  "vi": "Hàng Tuần",
+                  "en": "Weekly",
+                  "kh": ""
+              },
+              {
+                  "vi": "Nhiều lần trong tuần",
+                  "en": "More than weekly",
+                  "kh": ""
+              }
+          ],
+          "BrandName": "Niso",
+          "name": "question_sfgj52qj8",
+          "step": 2,
+          "createdAt": "2025-05-09T10:55:01.232Z",
+          "placeholder": {
+              "vi": "",
+              "en": "",
+              "kh": ""
+          }
+      }
+  ],
+  "fromStorage": false,
+  "TieuDe": [
+      {
+          "brand": "Niso",
+          "TieuDe": {
+              "vi": "Chia Sẻ Trải Nghiệm - Nâng Tầm Dịch Vụ",
+              "en": "",
+              "kh": ""
+          },
+          "updatedAt": "2025-06-11T11:34:30.675Z",
+          "id": "TieuDe_niso_unique"
+      }
+  ],
+  "qt1": [
+      {
+          "brand": "Niso",
+          "qt1": {
+              "vi": "Niso đón nhận mọi chia sẻ về trải nghiệm của Quý khách và luôn không ngừng nâng cao chất lượng dịch vụ.",
+              "en": "",
+              "kh": ""
+          },
+          "updatedAt": "2025-06-11T11:34:47.116Z",
+          "id": "de14366f-9d2f-4293-8b91-2cc3b7a5fc1c_unique"
+      }
+  ]
+} 

@@ -1,0 +1,7 @@
+.env
+.env.local
+node_modules
+src/data
+data
+backend/backups
+Phiên bản/
